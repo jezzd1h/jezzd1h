@@ -1,5 +1,5 @@
-- jezzd1h
-- I’m interested in coding in python and gaming and would like to get into cyber security 
+- Jeremy Southern
+- Very new to coding, learning C# at the moment
 
 
 <!---
