@@ -1,5 +1,10 @@
 - Jeremy Southern
-- Very new to coding, learning C# at the moment
+- Very new to coding
+- Learning:
+- c#
+- html
+- css
+- javascript
 
 
 <!---
